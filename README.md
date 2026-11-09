@@ -1,2 +1,2 @@
 # sidestore-config
-My private asiette server config
+My private anisette server config
